@@ -1,5 +1,0 @@
-IP: 51.250.29.210;
-name_taski: https://vinokur.ddns.net;
-name_kittygram: https://devinse.ru;
-login: yc-user
-password: habara
